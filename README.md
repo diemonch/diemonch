@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @diemonch
-- 👀 I’m interested in ... .Net  , Java Script and Cloud 
-- 🌱 I’m currently learning ... Spring Boot, Aws and Azure
+- 👀 I’m interested in ... .Javascript, Nodejs, React and AWS 
+- 🌱 I’m currently learning ... React and Maria DB
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: ravishankard_2k9@yahoo.com
 
 <!---
 diemonch/diemonch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
