@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravishankar (@diemonch)
 - 👀 I’m interested in ... .Javascript, Nodejs, React and AWS 
-- 🌱 I’m currently learning ... React and Maria DB
+- 🌱 I’m currently learning ... Spring Boot, Vue and Maria DB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ravishankard_2k9@yahoo.com
 
