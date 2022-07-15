@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ravishankar (@diemonch)
+- 👋 Hi, I’m Ravišhankar (@diemonch)
 - 👀 I’m interested in ... .Javascript, Nodejs, React and AWS 
 - 🌱 I’m currently learning ... Spring Boot, Vue and Maria DB
 - 💞️ I’m looking to collaborate on ...
